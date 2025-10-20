@@ -22,7 +22,6 @@ adbc-driver-manager = ">=1.8.0, <2"
 pyarrow = ">=21.0.0, <22"
 pyodbc = ">=5.2.0, <6"
 polars = ">=1.34.0, <2"
-dbc = "<0.0.1a3, >=0.0.1b2"
 
 [activation.env]
 ODBCSYSINI = "$PIXI_PROJECT_ROOT"
