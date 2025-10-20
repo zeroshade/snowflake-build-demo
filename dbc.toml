@@ -1,0 +1,5 @@
+# dbc driver list
+[drivers]
+[drivers.duckdb]
+
+[drivers.snowflake]
