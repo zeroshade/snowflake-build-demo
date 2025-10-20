@@ -3,3 +3,4 @@
 !.pixi/config.toml
 
 snowflake_odbc/
+*.tgz
